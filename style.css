@@ -88,3 +88,13 @@ nav{
     font-weight: bold;
 }
 
+/* img*/
+.hero-img{
+    max-width: 70%;
+    max-height: 350px;
+    display:block;
+    margin:auto;
+}
+.hero-heading{
+    text-align: center;
+}
